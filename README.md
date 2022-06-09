@@ -6,8 +6,7 @@ Farmers who grow potatoes are facing lot of economic losses every year because o
 
 In this project I develop an end-to-end Deep Learning project in the field of agriculture. I created a simple Image Classification Model that will categorize Potato Leaf Disease using a simple and classic Convolutional Neural Network Architecture and finally use Streamlit to build a web-based application and deploy it on Heroku.
 
-In this project, I am using readymade data that I got from Kaggle.<br>
-Dataset Link: https://www.kaggle.com/abdallahalidev/plantvillage-dataset
-<a href="https://www.linkedin.com/in/prasadrajat/" style="color:green;" target="_blank">LinkedIn</a>
-Project Demo: https://potatoclassification.herokuapp.com/
+In this project, I am using readymade data that I have got from <a href="https://www.kaggle.com/abdallahalidev/plantvillage-dataset" target="_blank">Kaggle</a>.<br>
+
+Project Demo: <a href="https://potatoclassification.herokuapp.com/" target="_blank">https://potatoclassification.herokuapp.com/</a>
 
