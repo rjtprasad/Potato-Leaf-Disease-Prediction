@@ -8,6 +8,6 @@ In this project I develop an end-to-end Deep Learning project in the field of ag
 
 In this project, I am using readymade data that I got from Kaggle.<br>
 Dataset Link: https://www.kaggle.com/abdallahalidev/plantvillage-dataset
-
+<a href="https://www.linkedin.com/in/prasadrajat/" style="color:green;" target="_blank">LinkedIn</a>
 Project Demo: https://potatoclassification.herokuapp.com/
 
