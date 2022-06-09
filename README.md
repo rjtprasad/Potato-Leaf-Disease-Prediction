@@ -8,5 +8,8 @@ In this project I develop an end-to-end Deep Learning project in the field of ag
 
 In this project, I am using readymade data that I have got from <a href="https://www.kaggle.com/abdallahalidev/plantvillage-dataset" target="_blank">Kaggle</a>.<br>
 
+## CNN Architecture
+<img src="block_of_cnn.png" width="600" height="400" />
+
 Project Demo: <a href="https://potatoclassification.herokuapp.com/" target="_blank">https://potatoclassification.herokuapp.com/</a>
 
