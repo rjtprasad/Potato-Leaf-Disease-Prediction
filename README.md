@@ -1,6 +1,6 @@
 # Potato-Leaf-Disease-Prediction
 
-![](https://github.com/rjtprasad/Potato-Leaf-Disease-Prediction/blob/main/demo_gif.gif)
+<img src="demo_gif.gif" width="700" height="500" />
 
 Farmers who grow potatoes are facing lot of economic losses every year because of various diseases that can happen to a potato plant. There are two common diseases known as early blight and late blight early blight is caused by a fungus and late blight is caused by a specific microorganism and if a farmer can detect these diseases early and apply appropriate treatment then it can save lot of waste and prevent the economic loss.
 
